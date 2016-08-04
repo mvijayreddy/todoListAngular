@@ -1,0 +1,26 @@
+[ng\:cloak],
+[ng-cloak],
+.ng-cloak {
+	display: none !important;
+}
+
+section button.btn {
+	float: right;
+}
+
+.complete {
+	text-decoration: line-through;
+	color: #CCCCCC;
+}
+
+a[ng-click] {
+	cursor: pointer;
+}
+
+a[ng-click]:hover {
+	color: #FF475F;
+}
+
+.margin-bottom {
+	margin-bottom: 30px;
+}
